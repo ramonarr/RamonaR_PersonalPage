@@ -61,7 +61,7 @@ body {
   height: 100%;
   background-image: url('https://scontent-otp1-1.xx.fbcdn.net/v/t1.0-9/62198984_121565959058232_2964864848401268736_n.jpg?_nc_cat=108&_nc_ht=scontent-otp1-1.xx&oh=e1af8516725dd46a477c4cbdf7b06757&oe=5D9936E7');
   background-repeat: no-repeat;
-  background-size: auto;
+  /*background-size: auto;*/
   background-position: center;
 }
 body {
